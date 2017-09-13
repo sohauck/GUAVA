@@ -1,0 +1,38 @@
+CLUSTAL format alignment by MAFFT FFT-NS-2 (v7.244)
+
+
+1               atgaccgacgccaatcccgctttcgacacggtccaccccagcgggcacattcttgttcgg
+2               atgaccgacgccaatcccgctttcgacacggtccaccccagcgggcacattcttgttcgg
+3               atgaccgacgccaatcccgctttcgacacggtccaccccagcgggcacattcttgttcgg
+23              atgaccgacgccaatcccgctttcgacacggtccaccccagcgggcacattcttgttcgg
+                ************************************************************
+
+1               tcctgccgcggtggatacatgcatagcgtctcgctgagcgaggcggcgatggagaccgac
+2               tcctgccgcggtggatacatgcatagcgtcccgctgagcgaggcggcgatggagaccgac
+3               tcctgccgcggtggatacatgcatagcgtctcgctgagcgaggcggcgatggagaccgac
+23              tc---------------------aagcgtctcgctgagcgaggcggcgatggagaccgac
+                **                      ******.*****************************
+
+1               gcagaaaccctggcggaagccatcctgctcaccgccgacgtgtcctgccttaaagcgttg
+2               gcagaaaccctggcggaagccatcctgctcaccgccgacgtgtcctgccttaaagcgttg
+3               gcagaaaccctggcggaagccatcctgctcaccgccgacgtgtcctgccttaaagcgttg
+23              gcagaaaccctggcggaagccatcctgctcaccgccgacgtgtcctgccttaaagcgttg
+                ************************************************************
+
+1               ctggaagtacgcaacgagatcgtggcggcgggccacaccccgtccgcgcaggttcccacg
+2               ctggaagtacgcaacgagatcgtggcggcgggccacaccccgtccgcgcaggttcccacg
+3               ctggaagtacgcaacgagatcgtggcggcgggccacaccccgtccgcgcaggttcccacg
+23              ctggaagtacgcaacgagatcgtggcggcgggccacaccccgtccgcgcaggttcccacg
+                ************************************************************
+
+1               accgacgacctgaacgtcgcgatcgaaaagctgctggcccatcaactgcgccgccgtaac
+2               accgacgacctgaacgtcgcgatcgaaaagctgctggcccatcaactgcgccgccgtaac
+3               accgacgacctgaacgtcgcgatcgaaaagctgctggcccatcaactgcgccgtcgtaac
+23              accgacgacctgaacgtcgcgatcgaaaagctgctggcccatcaactgcgccgccgtaac
+                *****************************************************.******
+
+1               cgttga
+2               cgttga
+3               cgttga
+23              cgttga
+                ******

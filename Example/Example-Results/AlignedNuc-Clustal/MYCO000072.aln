@@ -1,0 +1,128 @@
+CLUSTAL format alignment by MAFFT FFT-NS-2 (v7.244)
+
+
+1               atgctcttcgcggccctgcgtgacatgcaatggagaaagcgccgcctggtcatcacgatc
+2               atgctcttcgcggccctgcgtgacatgcaatggagaaagcgccgcccggtcatcacgatc
+3               atgctcttcgcggccctgcgtgacatgcaatggagaaagcgccgcctggtcatcacgatc
+4               atgctcttcgcggccctgcgtgacatgcaatggagaaagcgccgcctggtcatcacgatc
+5               atgctcttcgcggccctgcgtgacatgcaatggagaaagcgccgcctggtcatcacgatc
+                **********************************************.*************
+
+1               atcagcaccgggctgatcttcgggatgacgcttgttttgaccggactcgcgaacggcttc
+2               atcagcaccgggctgatcttcgggatgacgcttgttttgaccggactcgcgaacggcttc
+3               atcagcaccgggctgatcttcgggatgacgcttgttttgaccggactcgcgaacggcttc
+4               atcagcaccgggctgatcttcgggatgacgcttgttttgaccggactcgcgaacggcttc
+5               atcagcaccgggctgatcttcgggatgacgcttgttttgaccggactcgcgaacggcttc
+                ************************************************************
+
+1               cgggtggaggcccggcacaccgtcgattccatgggtgtcgatgtattcgtcgtcagatcc
+2               cgggtggaggcccggcacaccgtcgattccatgggtgtcgatgtattcgtcgtcagatcc
+3               cgggtggaggcccggcacaccgtcgattccatgggtgtcgatgtattcgtcgtcagatcc
+4               cgggtggaggcccggcacaccgtcgattccatgggtgtcgatgtattcgtcgtcagatcc
+5               cgggtggaggcccggcacaccgtcgattccatgggtgtcgatgtattcgtcgtcagatcc
+                ************************************************************
+
+1               ggcgctgctggaccttttctgggttcaataccgtttcccgatgttgacctggcccgagtg
+2               ggcgctgctggaccttttctgggttcaataccgtttcccgatgttgacctggcccgagtg
+3               ggcgctgctggaccttttctgggttcaataccgtttcccgacgttgacctggcccgagtg
+4               ggcgctgctggaccttttctgggttcaataccgtttcccgatgttgacctggcccgagtg
+5               ggcgctgctggaccttttctgggttcaataccgtttcccgatgttgacctggcccgagtg
+                *****************************************.******************
+
+1               gccgctgaacccggtgtcatggccgcggccccgttgggcagcgtggggacgatcatgaaa
+2               gccgctgaacccggtgtcatggccgcggccccgttgggcagcgtggggacgatcatgaaa
+3               gccgctgaacccggtgtcatggccgcggccccgttgggcagcgtggggacgatcatgaaa
+4               gccgctgaacccggtgtcatggccgcggccccgttgggcagcgtgggggcgatcatgaaa
+5               gccgctgaacccggtgtcatggccgcggccccgttgggcagcgtggggacgatcatgaaa
+                ************************************************.***********
+
+1               gaaggcacgtcgacgcgaaacgtcacggtcttcggcgcgcccgagcacggacctggcatg
+2               gaaggcacgtcgacgcgaaacgtcacggtcttcggcgcgcccgagcacggacctggcatg
+3               gaaggcacgtcgacgcgaaacgtcacggtcttcggcgcgcccgagcacggacctggcatg
+4               gaaggcacgtcgacgcgaaacgtcacggtcttcggcgcgcccgagcacggacctggcatg
+5               gaaggcacgtcgacgcgaaacgtcacggtcttcggcgcgcccgagcacggacctggcatg
+                ************************************************************
+
+1               ccacgggtctcagagggtcggtcaccgtcgaaaccggacgaagtcgcggcatcgagcacg
+2               ccacgggtctcagagggtcggtcaccgtcgaaaccggacgaagtcgcggcatcgagcacg
+3               ccacgggtctcagagggtcggtcaccgtcgaaaccggacgaagtcgcggcatcgagcacg
+4               ccacgggtctcagagggtcggtcaccgtcgaaaccggacgaagtcgcggcatcgagcacg
+5               ccacgggtctcagagggtcggtcaccgtcgaaaccggacgaagtcgcggcatcgagcacg
+                ************************************************************
+
+1               atgggccgacacctcggtgacactgtcgaggtcggcgcgcgcagattgcgggtcgttggc
+2               atgggccgacacctcggtgacactgtcgaggtcggcgcgcgcagattgcgggtcgttggc
+3               atgggccgacacctcggtgacactgtcgaggtcggcgcgcgcagattgcgggtcgttggc
+4               atgggccgacacctcggtgacactgtcgaggtcggcgcgcgcagattgcgggtcgttggc
+5               atgggccgacacctcggtgacactgtcgaggtcggcgcgcgcagattgcgggtcgttggc
+                ************************************************************
+
+1               attgtgccgaattccaccgcgctggccaagatccccaatgtcttcctcacgaccgagggc
+2               attgtgccgaattccaccgcgctggccaagatccccaatgtcttcctcacgaccgagggc
+3               attgtgccgaattccaccgcgctggccaagatccccaatgtcttcctcacgaccgagggc
+4               attgtgccgaattccaccgcgctggccaagatccccaatgtcttcctcacgaccgagggc
+5               attgtgccgaattccaccgcgctggccaagatccccaatgtcttcctcacgaccgagggc
+                ************************************************************
+
+1               ttacagaaattggcgtacaacgggcagccgaatatcacgtccatcgggatcataggtatg
+2               ttacagaaattggcgtacaacgggcagccgaatatcacgtccatcgggatcataggtatg
+3               ttacagaaattggcgtacaacgggcagccgaatatcacgtccatcgggatcataggtatg
+4               ttacagaaattggcgtacaacgggcagccgaatatcacgtccatcgggatcataggtatg
+5               ttacagaaattggcgtacaaagggcagccgaatatcacgtccatcgggatcataggtatg
+                ******************** ***************************************
+
+1               ccccgacagctgccggagggttaccagactttcgatcgggtgggcgctgtcaatgatttg
+2               ccccgacagctgccggagggttaccagactttcgatcgggtgggcgctgtcaatgatttg
+3               ccccgacagctgccggagggttaccagactttcgatcgggtgggcgctgtcaatgatttg
+4               ccccgacagctgccggagggttaccagactttcgatcgggtgggcgctgtcaatgatttg
+5               ccccgacagctgccggagggttaccagactttcgatcgggtgggcgctgtcaatgatttg
+                ************************************************************
+
+1               gtgcgcccattgaaggtcgcagtgaattcgatctcgatcgtggctgttttgctgtggatt
+2               gtgcgcccattgaaggtcgcagtgaattcgatctcgatcgtggctgttttgctgtggatt
+3               gtgcgcccattgaaggtcgcagtgaattcgatctcgatcgtggctgttttgctgtggatt
+4               gtgcgcccattgaaggtcgcagtgaattcgatctcgatcgtggctgttttgctgtggatt
+5               gtgcgcccattgaaggtcgcagtgaattcgatctcgatcgtggctgttttgctgtggatt
+                ************************************************************
+
+1               gtggcggtgctgatcgtcggctcggtggtgtacctttcggctcttgagcggctacgtgac
+2               gtggcggtgctgatcgtcggctcggtggtgtacctttcggctcttgagcggctacgtgac
+3               gtggcggtgctgatcgtcggctcggtggtgtacctttcggctcttgagcggctacgtgac
+4               gtggcggtgctgatcgtcggctcggtggtgtacctttcggctcttgagcggctacgtgac
+5               gtggcggtgctgatcgtcggctcggtggtgtacctttcggctcttgagcggctacgtgac
+                ************************************************************
+
+1               ttcgcggtgttcaaggcgattggcacgccaacgcgctcgattatggccgggctcgcatta
+2               ttcgcggtgttcaaggcgattggcacgccaacgcgctcgattatggccgggctcgcatta
+3               ttcgcggtgttcaaggcgattggcacgccaacgcgctcgattatggccgggctcgcatta
+4               ttcgcggtgttcaaggcgattggcacgccaacgcgctcgattatggccgggctcgcatta
+5               ttcgcggtgttcaaggcgattggcacgccaacgcgctcgattatggccgggctcgcatta
+                ************************************************************
+
+1               caggcgctggtcattgcgttgcttgcggcggtggtgggcgtcgtcctggcgcaggtgttg
+2               caggcgctggtcattgcgttgcttgcggcggtggtgggcgtcgtcctggcgcaggtgttg
+3               caggcgctggtcattgcgttgcttgcggcggtggtgggcgtcgtcctggcgcaggtgttg
+4               caggcgctggtcattgcgttgcttgcggcggtggtgggcgtcgtcctggcgcaggtgttg
+5               caggcgctggtcattgcgttgcttgcggcggtggtgggcgtcgtcctggcgcaggtgttg
+                ************************************************************
+
+1               gcaccactgtttccgatgattgtcgcggtacccgtcggtgcttacctggcgctaccggtg
+2               gcaccactgtttccgatgattgtcgcggtacccgtcggtgcttacctggcgctaccggtg
+3               gcaccactgtttccgatgattgtcgcggtacccgtcggtgcttacctggcgctaccggtg
+4               gcaccactgtttccgatgattgtcgcggtacccgtcggtgcttacctggcgctaccggtg
+5               gcaccactgtttccgatgattgtcgcggtacccgtcggtgcttacctggcgctaccggtg
+                ************************************************************
+
+1               gccgcgatcgtcatcggtctgttcgctagtgttgccggattgaagcgcgtggtgacggtc
+2               gccgcgatcgtcatcggtctgttcgctagtgttgccggattgaagcgcgtggtgacggtc
+3               gccgcgatcgtcatcggtctgttcgctagtgttgccggattgaagcgcgtggtgacggtc
+4               gccgcgatcgtcatcggtctgttcgctagtgttgccggattgaagcgcgtggtgacggtc
+5               gccgcgatcgtcatcggtctgttcgctagtgttgccggattgaagcgcgtggtgacggtc
+                ************************************************************
+
+1               gatcccgcgcaggcgttcggaggtccctag
+2               gatcccgcgcaggcgttcggaggtccctag
+3               gatcccgcgcaggcgttcggaggtccctag
+4               gatcccgcgcaggcgttcggaggtccctag
+5               gatcccgcgcaggcgttcggaggtccctag
+                ******************************

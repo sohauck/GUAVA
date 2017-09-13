@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.244)
+
+
+1               atgctggagctcgccatcctgggtctgttgatcgagtcaccgatgcatggctacgagttg
+2               atgctggagctcgccatcctgggtctgttgatcgagtcaccgatgcatggctacgagttg
+                ************************************************************
+
+1               cgcaagaggctgaccggcctgctgggcgcgtttcgggcattttcgtacggttcgttatac
+2               cgcaagaggctgaccggcgtgctgggcgcgtttcgggcattttcgtacggttcgttatac
+                ****************** *****************************************
+
+1               ccggcgctgcgacgcatgcaggccgacgggttgatcgccgagaatgccgccccagcgggc
+2               ccggcgctgcgacgcatgcaggccgacgggttgatcgccgagaatgccgccccagcgggc
+                ************************************************************
+
+1               accccggtgcggcgagcacgacgcgtttaccaactgaccgacaagggtcgccgtcgattc
+2               accccggtgcggcgagcacgacgcgtttaccaactgaccgacaagggtcgccgtcgattc
+                ************************************************************
+
+1               ggcgagctggtggccgacaccggcccacacaactacaccgacgacggtttcggggtgcac
+2               ggcgagctggtggccgacaccggcccacacaactacaccgacgacggtttcggggtgcac
+                ************************************************************
+
+1               ctggcgttcttcaaccgcaccccggccgaagcgcggatgcgcatcctggaaggccggcgc
+2               ctggcgttcttcaaccgcaccccggccgaagcgcggatgcgcatcctggaaggccggcgc
+                ************************************************************
+
+1               cgccaggtcgaggaacgccgggaaggcttgcgcgaggcggtggcgcgggccagcagttcc
+2               cgccaggtcgaggaacgccgggaaggcttgcgcgaggcggtggcgcgggccagcagttcc
+                ************************************************************
+
+1               ttcgaccgctacacccgccaattgcatcaactcgggctcgagtccagcgagcgcgaggtc
+2               ttcgaccgctacacccgccaattgcatcaactcgggctcgagtccagcgagcgcgaggtc
+                ************************************************************
+
+1               aagtggctcaacgagctcatcgccgcggaacgggcagcacccaaccccgccgaacagacg
+2               aagtggctcaacgagctcatcgccgcggaacgggcagcacccaaccccgccgaacagacg
+                ************************************************************
+
+1               taa
+2               taa
+                ***

@@ -1,0 +1,30 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.244)
+
+
+1               atgcccgctgtgacgaccccgtccaaccactggggggacgaacgaaggaagctctcgcat
+2               atgcccgctgtgacgaccccgtccaaccactggggggacgaacgaaggaagctctcgcat
+                ************************************************************
+
+1               cagccaccggtgcggggtcagattcttggccgcaggcaagcccggcggctgagccagcac
+2               cagccaccggtgcggggtcagattcttggccgcaggcaagcccggcggctgagccagcac
+                ************************************************************
+
+1               ttcgcgcgggtcggcgtcgaagccccgccgaagcgccttcaggaaatgctgttgggcgct
+2               ttcgcgcgggtcggcgtcgaagccccgccgaagcgccttcaggaaatgctgttgggcgct
+                ************************************************************
+
+1               cccgccgccgacgaagaatggaccgacgtcaagttcgcactgatcgtgacccagctgaac
+2               cccgccgccgacgaagaatggaccgacgtcaagttcgcactgatcgtgacccagctgaac
+                ************************************************************
+
+1               catgagaagcgcgtcgcgaaattccaccgcctacaacgccgagccacgcattcactaatc
+2               catgagaagcgcgtcgcgaaattccaccgcctacaacgccgagccacgcattcactaatc
+                ************************************************************
+
+1               tgtctgggtttggttctcgtggcactgaacttcctgatctgcctcgcctacatcttcttc
+2               ggtctgggtttggttctcgtggcactgaacttcctgatctgcctcgcctacatcttcttc
+                 ***********************************************************
+
+1               agcctgacccaacacgccgcagcgttgtga
+2               agcctgacccaacacgccgcagcgttgtga
+                ******************************
