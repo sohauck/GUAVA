@@ -17,7 +17,7 @@ It is designed to have as few dependencies as possible, to run quickly even on d
 + Start the Perl script in the command line, with "perl" followed by the file address. You can choose to use the command line options listed below, or simply answers the prompts given by the script. 
 ##### Visualising phase (R shiny)
 + To run the visualisation app locally, run "R -e shiny::runApp('/*directory*/')" on the command line, with *directory* replaced by the address of where the *app.R* file is contained. Alternatively, load the script on an R editor such as R Studio and launch directly from the editor. 
-+ To access the online visualisation app, visit \_\_\_\_\_\_. 
++ To access the online visualisation app, visit https://shauck-zoo.shinyapps.io/guava/. 
 
 ## Options which may be added to command line:
 + **-help**
